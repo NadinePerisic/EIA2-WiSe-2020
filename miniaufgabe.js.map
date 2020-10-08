@@ -1,0 +1,1 @@
+{"version":3,"file":"miniaufgabe.js","sourceRoot":"","sources":["miniaufgabe.ts"],"names":[],"mappings":";AAAA,SAAS,UAAU;IACf,IAAI,MAAM,GAAG,MAAM,CAAC,2BAA2B,CAAC,CAAC;IACjD,IAAI,MAAM,IAAI,IAAI,EAAE;QAClB,QAAQ,CAAC,cAAc,CAAC,OAAO,CAAC,CAAC,SAAS;YAC1C,cAAc,GAAG,MAAM,GAAG,8CAA8C,CAAC;KAC1E;AACH,CAAC"}
