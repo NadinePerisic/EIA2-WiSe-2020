@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" href="stylesheet.css">   
+    </head>
+    <script>
+        function myFunction() {
+            var person = prompt("Trage deinen Vornamen ein");
+            if (person != null) {
+            document.getElementById("popUp").innerHTML =
+            "Hallöchen   " + person + " wie geht es dir?  Bist du berreit für EIA2?";
+        }
+    }
+    </script>
+<body>
+<p>Drücke den  Eingabe-Button um deinen Namen einzugeben</p>
+<button onclick="myFunction()">Eingabe</button>
+<p id="popUp"></p>
+
+<script></script>
+</body>
+</html> 
